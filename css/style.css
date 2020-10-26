@@ -18,5 +18,18 @@ body{
 
 #container h1{
     font-size: 20px;
+}
 
+#cabecera{ 
+    background: rosybrown;
+    box-shadow: 10px 10px 5px #91919198;
+    font-weight: bolder;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline{
+    padding: 0 0 0 1rem;
+    font-weight: normal;
+    font-size: 0.8em;
 }
