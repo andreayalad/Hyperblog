@@ -40,3 +40,9 @@ body{
     background: whitesmoke;
     padding: 1em;
 }
+#footer{
+    background: papayawhip;
+    color: black;
+    text-align: center;
+    padding: 1em;
+}
